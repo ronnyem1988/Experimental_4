@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Calculo_de_metricas_de_centralidades/1.0.0": {
+        "runtime": {
+          "Calculo_de_metricas_de_centralidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_de_metricas_de_centralidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
