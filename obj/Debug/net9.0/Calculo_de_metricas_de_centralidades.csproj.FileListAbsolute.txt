@@ -1,0 +1,14 @@
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\bin\Debug\net9.0\Calculo_de_metricas_de_centralidades.exe
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\bin\Debug\net9.0\Calculo_de_metricas_de_centralidades.deps.json
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\bin\Debug\net9.0\Calculo_de_metricas_de_centralidades.runtimeconfig.json
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\bin\Debug\net9.0\Calculo_de_metricas_de_centralidades.dll
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\bin\Debug\net9.0\Calculo_de_metricas_de_centralidades.pdb
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.AssemblyInfoInputs.cache
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.AssemblyInfo.cs
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.csproj.CoreCompileInputs.cache
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.dll
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\refint\Calculo_de_metricas_de_centralidades.dll
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.pdb
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\Calculo_de_metricas_de_centralidades.genruntimeconfig.cache
+C:\Users\Ronny Melo\Documents\Proyectos U 2025\Experimental 4\Calculo_de_metricas_de_centralidades\obj\Debug\net9.0\ref\Calculo_de_metricas_de_centralidades.dll
